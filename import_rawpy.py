@@ -7,7 +7,7 @@ def load_images_from_folder(folder):
 
 if __name__ == '__main__':
 
-	folder = "/home/bm7/tagus/drone/files"
+	folder = "/path/to/your/files"
 	print("Listing RC2 image in the folder...", folder)
 
 	l = load_images_from_folder(folder)
