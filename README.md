@@ -3,8 +3,8 @@ convert your raw file to jpg image with python
 
 
 tool used:
- -[x] rawpy
- -[x] imageio
+ - [x] rawpy
+ - [x] imageio
  
 ### usage 
 ```
